@@ -2,6 +2,8 @@
 
 # RustDesk ID & Server Changer v3
 
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/RustDesk-ID-Server-Changer/archive/refs/heads/main.zip)
+
 RustDesk Github: https://github.com/rustdesk/rustdesk
 
 <details>
